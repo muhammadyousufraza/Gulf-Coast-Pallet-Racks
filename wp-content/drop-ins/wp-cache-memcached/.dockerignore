@@ -1,0 +1,22 @@
+# WP Cache Memcached
+/bin/
+/stubs/
+/tests/
+
+**/.phpcs.xml.dist
+**/phpcs.ruleset.xml
+**/phpcs.xml
+**/phpcs.xml.dist
+**/phpdoc.dist.xml
+**/phpunit.xml
+**/phpunit.xml.dist
+**/phpunit-multisite.xml
+**/phpunit-multisite.xml.dist
+**/psalm.xml.dist
+**/.gitignore
+**/composer.json
+**/composer.json.tpl
+**/composer.lock
+readme.md
+Makefile
+
